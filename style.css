@@ -1,6 +1,5 @@
 body {
-	padding: 0;
-	margin: 0;
+    background-image: url(background.jpg);
 }
 
 .container {
@@ -10,7 +9,6 @@ body {
 	align-items: center;
 	width: 100%;
 	height: 100vh;
-    background-color: whitesmoke;
 }
 
 .digit {
